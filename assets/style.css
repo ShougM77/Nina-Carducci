@@ -108,6 +108,10 @@ body {
 .nav-pills .nav-link {
 	color: #000
 }
+.nav-link:focus {
+	background-color : #BEB45A;
+}
+
 .item-column {
 	position: relative;
 	margin-bottom: 0 !important;
